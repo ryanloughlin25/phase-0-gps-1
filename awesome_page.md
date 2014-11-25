@@ -3,4 +3,4 @@
 `code`
 [github](www.github.com)
 
-change for merge conflict from master branch
+change for resolved merge conflict
